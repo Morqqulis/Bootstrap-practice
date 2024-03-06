@@ -1,0 +1,22 @@
+.carousel-item {
+	height: 32rem;
+}
+
+.circle {
+	width: 140px;
+	height: 140px;
+}
+.card {
+	border: none;
+}
+
+hr {
+	margin-block: 5rem;
+}
+
+@media (min-width: 40em) {
+}
+
+.header {
+	padding-inline: 1rem;
+}
